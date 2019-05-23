@@ -1,2 +1,2 @@
-# hmc-activetransportation.github.io
-Pages site for team blogs
+# hmc-textinganalysis.github.io
+Repository for hosting team blogs
