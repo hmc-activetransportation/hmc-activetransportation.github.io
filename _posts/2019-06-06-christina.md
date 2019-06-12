@@ -1,7 +1,7 @@
-6/5/19
+6/6/19
 ================
 
-<p class="meta">5 June 2019</p>
+<p class="meta">6 June 2019</p>
 
 My time today was split between two main tasks: figuring out the fact automation that I began yesterday, and researching the many forms our final project could take. I started the morning by continuing the fact automation, putting my strategy into place. However, we decided to split up the work, and my partner took over processing the facts while I worked on researching packaging options as well as familiarizing myself with the work done with the shade canopy from last summer. 
 
